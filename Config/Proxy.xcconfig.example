@@ -1,0 +1,1 @@
+PROXY_BASE_URL = https:/$()/your-worker.workers.dev/

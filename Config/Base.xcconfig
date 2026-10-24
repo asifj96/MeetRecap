@@ -1,0 +1,2 @@
+PROXY_BASE_URL = https:/$()/example.workers.dev/
+#include? "Proxy.xcconfig"
