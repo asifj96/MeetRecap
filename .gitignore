@@ -1,6 +1,9 @@
 # Local proxy URL. Copy Config/Proxy.xcconfig.example to Config/Proxy.xcconfig.
 Config/Proxy.xcconfig
 
+# Local build notes. They name this Mac's folders.
+MEETRECAP_IOS_PLAN.md
+
 # Xcode build output and per-user state
 DerivedData/
 build/
